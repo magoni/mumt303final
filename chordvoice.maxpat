@@ -84,7 +84,7 @@
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 41.0, 597.0, 42.0, 22.0 ],
 					"style" : "",
-					"text" : "*~ 0.5"
+					"text" : "*~ 0.3"
 				}
 
 			}
@@ -614,6 +614,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 41.0, 628.0, 44.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"style" : "",
 					"text" : "out~ 1"
 				}
@@ -627,6 +631,10 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 41.0, 45.0, 30.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"style" : "",
 					"text" : "in 1"
 				}
